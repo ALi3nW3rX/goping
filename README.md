@@ -1,5 +1,5 @@
 # goping
-Simple ping sweeper written in GO
+Simple ping sweeper written in GO - Code is not working correctly yet.
 
 
 Git Clone goping <br>
