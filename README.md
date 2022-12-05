@@ -1,9 +1,9 @@
 # goping
-simple ping sweeper written in GO
+Simple ping sweeper written in GO
 
 
-Git Clone Goping
+Git Clone goping <br>
 cd goping
 
-$ go build ping_sweeper.go
+$ go build ping_sweeper.go<br>
 $ ./ping_sweeper 192.168.1.0
